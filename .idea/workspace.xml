@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9086c93-cc13-4cb7-a475-d175298412e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CS50x_Final_Project_PyGame_Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/enemy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/entity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/sprite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/jump.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/music.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/Pixeltype.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/Fly/Fly1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/Fly/Fly2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/Player/jump.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/Player/player_stand.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/Player/player_walk_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/Player/player_walk_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/Sky.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/ground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/snail/snail1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/snail/snail2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intro_ball.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-    </list>
+    <list default="true" id="f9086c93-cc13-4cb7-a475-d175298412e0" name="Changes" comment="Finished project without README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="JUP56 &lt;jup56@yahoo.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -97,7 +73,36 @@
       <option name="presentableId" value="Default" />
       <updated>1716801383403</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished project without README.md">
+      <option name="closed" value="true" />
+      <created>1716902617352</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716902617352</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished project without README.md">
+      <option name="closed" value="true" />
+      <created>1716902799424</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716902799424</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finished project without README.md">
+      <option name="closed" value="true" />
+      <created>1716902863985</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716902863985</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished project without README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished project without README.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
