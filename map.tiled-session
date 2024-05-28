@@ -1,0 +1,115 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "data/map.tmx",
+    "expandedProjectPaths": [
+        "data",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/steph/AppData/Local/Temp/23e837c5-d18e-4d29-b09c-988ca83690bb_WesternShooter-master.zip.0bb/WesternShooter-master/data/fence.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/steph/AppData/Local/Temp/23e837c5-d18e-4d29-b09c-988ca83690bb_WesternShooter-master.zip.0bb/WesternShooter-master/data/ground.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/steph/AppData/Local/Temp/23e837c5-d18e-4d29-b09c-988ca83690bb_WesternShooter-master.zip.0bb/WesternShooter-master/data/map.tmx": {
+            "scale": 0.15239583333333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1925.9056732740942,
+                "y": 1922.6247436773751
+            }
+        },
+        "C:/Users/steph/AppData/Local/Temp/23e837c5-d18e-4d29-b09c-988ca83690bb_WesternShooter-master.zip.0bb/WesternShooter-master/data/objects.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/steph/Documents/Jeff Programming Homework/WesternShooter/data/TilesetFloorDetail.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/steph/Documents/Jeff Programming Homework/WesternShooter/data/fence.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/steph/Documents/Jeff Programming Homework/WesternShooter/data/ground.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/steph/Documents/Jeff Programming Homework/WesternShooter/data/map.tmx": {
+            "scale": 0.14423177083333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1095.4590593120881,
+                "y": 1923.9866389816737
+            }
+        },
+        "C:/Users/steph/Documents/Jeff Programming Homework/WesternShooter/data/objects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "data/TilesetDesert.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "data/TilesetFloor.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1.5
+        },
+        "data/buildings.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "data/map.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 271.5,
+                "y": 398
+            }
+        },
+        "data/objects.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        }
+    },
+    "last.exportedFilePath": "C:/Users/steph/Documents/Jeff Programming Homework/CS50x_Final_Project_PyGame_Project/data",
+    "last.imagePath": "C:/Users/steph/Documents/Jeff Programming Homework/CS50x_Final_Project_PyGame_Project/Ninja Adventure - Asset Pack/Backgrounds/Tilesets",
+    "map.height": 32,
+    "map.lastUsedExportFilter": "Tiled map files (*.tmx *.xml)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 32,
+    "openFiles": [
+        "data/TilesetFloor.tsx",
+        "data/map.tmx",
+        "data/objects.tsx",
+        "data/buildings.tsx"
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "data/TilesetFloor.tsx",
+        "data/buildings.tsx",
+        "data/objects.tsx",
+        "data/map.tmx",
+        "C:/Users/steph/AppData/Local/Temp/23e837c5-d18e-4d29-b09c-988ca83690bb_WesternShooter-master.zip.0bb/WesternShooter-master/data/map.tmx",
+        "C:/Users/steph/Documents/Jeff Programming Homework/WesternShooter/data/TilesetFloorDetail.tsx",
+        "C:/Users/steph/Documents/Jeff Programming Homework/WesternShooter/data/map.tmx",
+        "data/TilesetDesert.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}

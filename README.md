@@ -1,2 +1,4 @@
-# CS50x_Final_Project_PyGame_Project
-CS50x Final Project PyGame Project
+# CS50x - Final Project - Simple PyGame Project
+___
+#### Video Demo: <URL HERE>
+
