@@ -10,5 +10,5 @@ https://www.udemy.com/course/learn-python-by-making-games/?couponCode=KEEPLEARNI
 ).
 
 
-![Screenshot of the game, running at 480x480](/blob/main/game_screenshot.PNG)
+![Screenshot of the game, running at 480x480]([/blob/main/game_screenshot.PNG](https://github.com/JUP56/CS50x_Final_Project_PyGame_Project/blob/main/game_screenshot.PNG))
 
