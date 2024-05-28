@@ -1,6 +1,6 @@
 # CS50x - Final Project - Simple PyGame Project
 ___
-#### Video Demo: <URL HERE> url
+#### Video Demo: [Link to video](https://youtu.be/W9bYz_Rt-Nw)
 ___
 #### *README.md* was created via GitHub, as such, images were linked with that format in mind. See GitHub Repo link to view as intended
 ___
